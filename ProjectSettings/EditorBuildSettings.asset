@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/JensensRoom.unity
     guid: 39ad2dcbf7143a34d9e1525becfe2e05
+  - enabled: 1
+    path: Assets/Scenes/SummativeProject.unity
+    guid: e6c394791939f5c42957f821e39a5b66
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ed72be55522c8448bae8b0d66fa21adf,
       type: 2}
